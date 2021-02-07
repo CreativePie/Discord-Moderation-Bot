@@ -1,6 +1,6 @@
 Working Discord Mod Bot!
 
-Just Fill In Your Token IN The Requiried Places!
+Just Fill In Your Token In The Requiried Places!
 
 You Can Use This In Repl.it Or Glitch Even!
 
